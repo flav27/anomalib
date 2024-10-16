@@ -176,3 +176,6 @@ docs/source/_build/
 wandb/
 lightning_logs/
 mlruns
+
+/cache/5824279757891012385.blob
+/cache/8021470836473703914.blob
